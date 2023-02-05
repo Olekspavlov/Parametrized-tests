@@ -29,11 +29,3 @@ describe('Parametrized tests: Jane Doe', () => {
  //it('search data', paramTest({testData1: 3, expectedResult1: 3}))
 
  })
-
-  
-
-  
-  
-
-
- 
